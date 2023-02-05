@@ -1,1 +1,3 @@
 # Getters/setters, а также property
+
+Во всех "нормальных" языках можно регулировать доступ к свойствам и методам не только по принципам приватности или публичности, но и по принципу запись/чтение. В python этому нам помогают геттеры и сеттеры, а также специальный декоратор property. Можем почитать [тут](https://pythonpip.ru/osnovy/gettery-settery-python) или [тут](https://pythonpip.ru/osnovy/gettery-settery-python).

@@ -1,1 +1,3 @@
 # Python GIL
+
+Тут все просто: в python есть GIL и он был создан для определенных вещей. Нужно ознакомиться с его [устройством](https://habr.com/ru/post/84629/), понять зачем он [понадобился](https://tproger.ru/translations/global-interpreter-lock-guide/) и как он влияет на важные аспекты работы python, в частности на его возможности в [многопоточном выполнении программ](https://temofeev.ru/info/articles/gil-i-ego-vliyanie-na-mnogopotochnost-python/).
